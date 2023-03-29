@@ -1,0 +1,16 @@
+# All paths are relative to the project directory.
+
+# Directory where temporally documents will be stored (they're deleted after merging).
+tmp_directory: ../resource/tmp
+
+# Path to the document template.
+template_path: ../resource/templates/template.docx
+
+# Path to the data which will be populated in the templates.
+data_path: ../resource/data/sample_input.csv
+
+# Path where the resulting document will be stored.
+output_path: ../output.docx
+
+# How many templates are on a single page? (TEAM_1) -> 1, (TEAM_1, TEAM_2) -> 2
+templates_per_page: 4   # How many persons/templates per one page?

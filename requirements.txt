@@ -1,0 +1,16 @@
+Babel==2.12.1
+colorama==0.4.6
+docxcompose==1.4.0
+docxtpl==0.16.5
+Jinja2==3.1.2
+lxml==4.9.2
+MarkupSafe==2.1.2
+numpy==1.24.2
+pandas==1.5.3
+python-dateutil==2.8.2
+python-docx==0.8.11
+pytz==2022.7.1
+PyYAML==6.0
+six==1.16.0
+tqdm==4.65.0
+wincertstore==0.2

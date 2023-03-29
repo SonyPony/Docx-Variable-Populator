@@ -1,0 +1,19 @@
+-
+    table_key: FirstName
+    template_key: FNAME_{}  # {} will be formatted using subindex.
+
+-
+    table_key: LastName
+    template_key: LNAME_{}  # {} will be formatted using subindex.
+
+-
+    table_key: Club
+    template_key: TEAM_{}  # {} will be formatted using subindex.
+
+-
+    table_key: Category
+    template_key: CATEGORY_{}  # {} will be formatted using subindex.
+
+-
+    table_key: Division
+    template_key: DIVISION_{}  # {} will be formatted using subindex.
