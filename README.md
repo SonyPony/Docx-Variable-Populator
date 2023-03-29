@@ -69,9 +69,16 @@ output_path: ../output.docx
 templates_per_page: 4   # How many persons/templates per one page?
 ```
 
-### 5. Running
+### 5. Changing format
+All format changes has to be implemented in `src/mapping/csv_2_template_map.py:DataEntry` class. This could change in the future.
+
+### 6. Running
 To run the script use following command: 
 
 ```
 python src/generate_id_cards.py
 ```
+
+![image](https://user-images.githubusercontent.com/8584106/228637878-3d0aac1f-712b-4251-b92f-0ff5d0c0af68.png)
+
+
